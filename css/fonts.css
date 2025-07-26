@@ -1,0 +1,32 @@
+/*
+    Font Weights:
+        100 - Thin
+        200 - Extra Light (Ultra Light)
+        300 - Light
+        400 - Normal
+        500 - Medium
+        600 - Semi Bold (Demi Bold)
+        700 - Bold
+        800 - Extra Bold (Ultra Bold)
+        900 - Black (Heavy)
+*/
+
+/* Benton Sans */
+@font-face {
+    font-family: 'Benton Sans';
+    src: url('../fonts/BentonSans-Light.eot');
+    src: url('../fonts/BentonSans-Light.eot#iefix') format('embedded-opentype'),
+        url('../fonts/BentonSans-Light.woff') format('woff'),
+        url('../fonts/BentonSans-Light.ttf') format('truetype');
+    font-style: normal;
+    font-weight: 300;
+}
+@font-face {
+    font-family: 'Benton Sans';
+    src: url('../fonts/BentonSans-Regular.eot');
+    src: url('../fonts/BentonSans-Regular.eot#iefix') format('embedded-opentype'),
+        url('../fonts/BentonSans-Regular.woff') format('woff'),
+        url('../fonts/BentonSans-Regular.ttf') format('truetype');
+    font-style: normal;
+    font-weight: 400;
+}
